@@ -7,7 +7,7 @@ description: "Sports, music and games talk" # This will show up in places like t
 email: "11fat.catYT@gmail.com"
 twitter_username: "thfc_fatcat"
 github_username: "highpressers"
-linkedin_username: "linkedinuser"
+#linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -18,7 +18,7 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "simply-cyan"
 
 rss: rss
 

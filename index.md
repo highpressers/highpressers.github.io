@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Welcome to the High Pressers blog! Here, we talk about sports, mainly football, as well as music and games!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Created as a side project by Prashast, we write for the love of the game!
